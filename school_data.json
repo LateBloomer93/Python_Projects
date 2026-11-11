@@ -1,0 +1,272 @@
+{
+  "Grade 1": {
+    "P0890": {
+      "name": "Venessa Magh'ang'a",
+      "subjects": [
+        "Math",
+        " Science",
+        " English",
+        " Kiswahili"
+      ],
+      "marks": [
+        "93",
+        " 92",
+        " 90",
+        " 90"
+      ]
+    }
+  },
+  "Grade 2": {
+    "P0073": {
+      "name": "Sophie Malemba",
+      "subjects": [
+        "Math",
+        " Science",
+        " English",
+        " Kiswahili"
+      ],
+      "marks": [
+        "94",
+        " 92",
+        " 90",
+        " 91"
+      ]
+    },
+    "P0890": {
+      "name": "123233",
+      "subjects": [
+        "Math"
+      ],
+      "marks": [
+        "100"
+      ]
+    }
+  },
+  "Grade 3": {
+    "P0089": {
+      "name": "Diana Mwende Mwangi",
+      "subjects": [
+        "Math",
+        " English",
+        " Kiswahili",
+        " Science"
+      ],
+      "marks": [
+        "90",
+        " 94",
+        " 90",
+        " 98"
+      ]
+    },
+    "P7880": {
+      "name": "Jane Kagure",
+      "subjects": [
+        "Math",
+        " English",
+        " Science",
+        " Philosophy"
+      ],
+      "marks": [
+        "90",
+        " 94",
+        " 92",
+        " 89"
+      ]
+    },
+    "P0001": {
+      "name": "Laban Njaramba",
+      "subjects": [
+        " English",
+        " Kiswahili",
+        " Science",
+        " Quant Mastery"
+      ],
+      "marks": [
+        " 90",
+        " 94",
+        " 99",
+        " 100"
+      ]
+    },
+    "P0041": {
+      "name": "Phillipah Mwikali Mwende",
+      "subjects": [
+        "Math",
+        " Science",
+        " English",
+        " Kiswahili"
+      ],
+      "marks": [
+        "90",
+        " 93",
+        " 90",
+        " 89"
+      ]
+    },
+    "P0045": {
+      "name": "Janet Mbugua",
+      "subjects": [
+        "Math",
+        " Science",
+        " English",
+        " Kiswahili"
+      ],
+      "marks": [
+        "94",
+        " 98",
+        " 90",
+        " 92"
+      ]
+    },
+    "P0809": {
+      "name": "190909",
+      "subjects": [
+        "Math",
+        " Science"
+      ],
+      "marks": [
+        "90",
+        " 93"
+      ]
+    },
+    "P0018": {
+      "name": "Janet Ngele",
+      "subjects": [
+        "Math",
+        " Science"
+      ],
+      "marks": [
+        "100",
+        " 100"
+      ]
+    }
+  },
+  "Grade 4": {
+    "P0069": {
+      "name": "Jonathan Maghanga",
+      "subjects": [
+        "Math",
+        " Science",
+        " English",
+        " Kiswahili"
+      ],
+      "marks": [
+        "90",
+        " 92",
+        " 93",
+        " 86"
+      ]
+    },
+    "P0809": {
+      "name": "Claudia Njeri",
+      "subjects": [
+        "Math",
+        " Science",
+        " English",
+        " Kiswahili"
+      ],
+      "marks": [
+        "90",
+        " 92",
+        " 93",
+        " 90"
+      ]
+    }
+  },
+  "Grade 5": {
+    "P0019": {
+      "name": "Kasongo Atoke",
+      "subjects": [
+        "Math",
+        " Science",
+        " Corruption",
+        " Bribery",
+        "Kiswahili",
+        " English"
+      ],
+      "marks": [
+        "90",
+        " 90",
+        " 100",
+        " 100",
+        "90",
+        " 94"
+      ]
+    },
+    "P0018": {
+      "name": "Rafael Kariuki",
+      "subjects": [
+        "Math",
+        " Science"
+      ],
+      "marks": [
+        "100",
+        " 90"
+      ]
+    },
+    "P0013": {
+      "name": "Sylvia Mungairi",
+      "subjects": [
+        "Math",
+        " Science",
+        " English"
+      ],
+      "marks": [
+        "100",
+        " 93",
+        " 94"
+      ]
+    }
+  },
+  "Grade 6": {},
+  "Grade 7": {
+    "P0890": {
+      "name": "Sophie Ngele",
+      "subjects": [
+        "Math",
+        " Python",
+        " Science",
+        " English"
+      ],
+      "marks": [
+        "90",
+        " 95",
+        " 90",
+        " 98"
+      ]
+    }
+  },
+  "Grade 8": {},
+  "Grade 10": {
+    "P8980": {
+      "name": "Gerald Wahinya",
+      "subjects": [
+        "Math",
+        " Science",
+        " WashWash"
+      ],
+      "marks": [
+        "90",
+        " 90",
+        " 100"
+      ]
+    }
+  },
+  "Grade 12": {
+    "P0809": {
+      "name": "Rafael Kariuki",
+      "subjects": [
+        "Math",
+        " Philosophy",
+        " English Lit",
+        " Science"
+      ],
+      "marks": [
+        "100",
+        " 94",
+        " 93",
+        " 93"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "amount": [
+    "4000",
+    "800",
+    "5000"
+  ],
+  "category": [
+    "eggs",
+    "meat",
+    "rent"
+  ],
+  "description": [
+    "groceries",
+    "groceries",
+    "utility"
+  ],
+  "date": [
+    "12/1/2020",
+    "12/1/2020",
+    "12/3/2025"
+  ]
+}
